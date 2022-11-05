@@ -16,7 +16,7 @@
 Clone the project
 
 ```bash
-  git clone https://github.com/LMprojects7E6/barber-shop-mern.git
+  git clone https://github.com/averoli/CRUD-full-stack.git
 ```
 
 Go to the project directory

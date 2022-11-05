@@ -4,4 +4,46 @@
 - Implemented CRUD with React Query
 - Enabled CORS in Web API
 - Consume API web methods from React
-- Гser authentication with Firebase
+- User authentication with Firebase
+
+
+## :toolbox: Getting Started
+
+<!-- Run Locally -->
+
+### :running: Run Locally
+
+Clone the project
+
+```bash
+  git clone https://github.com/LMprojects7E6/barber-shop-mern.git
+```
+
+Go to the project directory
+
+```bash
+  cd BarberShop-Mern/frontend
+```
+
+Install dependencies
+
+```bash
+  npm install
+
+```
+
+Go to the project directory
+
+```bash
+  cd BarberShop-Mern/Backend
+```
+
+Start the server
+
+```bash
+  npm run start
+```
+
+<!-- Usage -->
+
+## :eyes: Usage

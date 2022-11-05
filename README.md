@@ -22,7 +22,7 @@ Clone the project
 Go to the project directory
 
 ```bash
-  cd BarberShop-Mern/frontend
+  cd CRUD-full-stack/client
 ```
 
 Install dependencies
@@ -35,7 +35,7 @@ Install dependencies
 Go to the project directory
 
 ```bash
-  cd BarberShop-Mern/Backend
+  cd CRUD-full-stack/server
 ```
 
 Start the server

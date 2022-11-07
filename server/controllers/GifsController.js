@@ -4,6 +4,7 @@ const model = require("../models");
 const addNewGif = async (req, res) => {
   try {
     const { gifsFile, tags } = req.body;
+    console.log(gifsFile, tags);
     const gif = await model.Gif.create({
       gifsFile,
       // genre,

@@ -1,9 +1,9 @@
 const mongoose = require("mongoose");
 
 const GifSchema = new mongoose.Schema({
-  gifLink: {
+  gifsFile: {
     type: String,
-    // required: [true, "Gif link is required"],
+    required: [true, "Gif link is required"],
     trim: true,
   },
   author: {
@@ -17,7 +17,7 @@ const GifSchema = new mongoose.Schema({
   },
   tags: {
     type: Object,
-    // required: [true, "Tags is required"],
+    required: [true, "Tags is required"],
     trim: true,
   },
 });
